@@ -1,1 +1,1 @@
-Jeg heter malin
+Jeg heter Kristian Garder

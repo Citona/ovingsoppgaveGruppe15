@@ -1,1 +1,1 @@
-Du er kul!
+Du er kul gummisnopp

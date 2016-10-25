@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ASS電電電電電電........
-=======
-This file is no longer conflicted.
->>>>>>> 8b11e4d9ea84389a44d279c6dc9c7f67df5415ae
+Please help.

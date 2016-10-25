@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 Fixed. Again.
-=======
-<<<<<<< HEAD
 This file is conflicted.
 Not anymore, it had a long conversation with Batman!
-=======
 This file is no longer conflicted.
->>>>>>> 8b11e4d9ea84389a44d279c6dc9c7f67df5415ae
->>>>>>> 7bac50bd912b23daf952263f61a5c432664aa020
+Mathias er best.
+FML.

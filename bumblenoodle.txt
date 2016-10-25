@@ -1,21 +1,13 @@
-<<<<<<< HEAD
+
 
 Mathias er best.
 
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> fb5688f30a2dbe0c74d1caf2a800b3c4a9fce52f
 This file is conflicted.
+
 
 Not anymore, it had a long conversation with Batman!
 
 This file is no longer conflicted.
-<<<<<<< HEAD
- 
-=======
->>>>>>> 8b11e4d9ea84389a44d279c6dc9c7f67df5415ae
-=======
+
+
 Mathias er best.
->>>>>>> 792185e7be1deb44fdd20f9500d4f2099eeb4aac
->>>>>>> fb5688f30a2dbe0c74d1caf2a800b3c4a9fce52f
